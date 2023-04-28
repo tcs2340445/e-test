@@ -19,3 +19,5 @@ git push
 git merge dev
 
 git add .
+
+git clone -b branchName https://xxx.xxx.git
